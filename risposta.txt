@@ -1,0 +1,2 @@
+La tabella comunicazione è inutile perchìè sui spreca memoria
+per risolvere basta mettere l'id del cittadino nell'eveto
